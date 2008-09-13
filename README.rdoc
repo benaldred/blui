@@ -1,0 +1,4 @@
+== Blanc UI
+
+A quickstart for XHTML/CSS sites and wireframes for rapid prototyping.
+
