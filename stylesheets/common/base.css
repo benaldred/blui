@@ -1,0 +1,11 @@
+
+/* wraps enclosing block element around inner floated elements */
+.clearfix:after {
+ content: ".";
+ display: block;
+ visibility: hidden;
+ clear: both;
+ height: 0;
+}
+
+.clearfix {display:inline-block;}
