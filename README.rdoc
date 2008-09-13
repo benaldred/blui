@@ -2,3 +2,8 @@
 
 A quickstart for XHTML/CSS sites and wireframes for rapid prototyping.
 
+
+== Usage 
+
+download and away you go!
+
